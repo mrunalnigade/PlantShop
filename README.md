@@ -76,4 +76,9 @@ To learn more about React Native, take a look at the following resources:
 - [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+   [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+- snapshots
+- ![Image 2024-07 1](https://github.com/user-attachments/assets/d9354d7c-dcba-4384-a9df-d1be323ceeb0)  ![Image 2024](https://github.com/user-attachments/assets/90b1d8bb-195a-4398-8bde-fdbe7b93c95a)
+
+
+
